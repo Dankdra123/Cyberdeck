@@ -9,4 +9,5 @@ Hardware:
 - Heatsink & fan, due to PLA melting point - https://amzn.eu/d/fkGNHGv
 - UPS - https://www.aliexpress.com/item/1005006254984058.html?spm=a2g0o.order_detail.order_detail_item.2.2471f19c7Jf7fX
 - 18650 Lithium ion battery cell of choice x3 - https://www.fogstar.co.uk/products/fogstar-energy-4000-18650-battery
+- 10x2mm magnets - https://amzn.eu/d/fDDZguu
   
