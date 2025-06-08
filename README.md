@@ -8,3 +8,5 @@ Hardware:
 - Rii K01X1 2.4 GHz Mini Wireless Keyboard - https://amzn.eu/d/g9zD7vr
 - Heatsink & fan, due to PLA melting point - https://amzn.eu/d/fkGNHGv
 - UPS - https://www.aliexpress.com/item/1005006254984058.html?spm=a2g0o.order_detail.order_detail_item.2.2471f19c7Jf7fX
+- 18650 Lithium ion battery cell of choice x3 - https://www.fogstar.co.uk/products/fogstar-energy-4000-18650-battery?syclid=31a004d3-9bac-4b09-8806-721c7ba4610f&utm_campaign=order-confirmation-email&utm_content=product&utm_medium=email&utm_source=OrderlyEmails
+- 
